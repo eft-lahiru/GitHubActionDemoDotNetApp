@@ -1,0 +1,1 @@
+[![build and test](https://github.com/eft-lahiru/GitHubActionDemoDotNetApp/actions/workflows/action.yaml/badge.svg)](https://github.com/eft-lahiru/GitHubActionDemoDotNetApp/actions/workflows/action.yaml)
