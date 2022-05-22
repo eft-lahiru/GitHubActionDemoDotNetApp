@@ -13,7 +13,7 @@ namespace GitHubActionDemoDotNetApp
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+            CreateHostBuilder(args).Build().Rn();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
